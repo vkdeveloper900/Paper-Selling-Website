@@ -86,7 +86,7 @@ function updateCartDisplay() {
     addButton.textContent = 'Add Items to Cart';
     addButton.addEventListener('click', () => {
         // Add your logic to redirect or perform an action when the button is clicked
-        window.location.href = '/#university';
+        window.location.href = 'https://vkdeveloper900.github.io/Paper-Selling-Website/#university';
 
     });
 
