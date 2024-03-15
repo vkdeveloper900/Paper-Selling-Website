@@ -1,0 +1,18 @@
+If you want to run this website then open
+ "Paper Selling Website" folder
+ with VS Code and then you can open it through live server.
+
+
+
+
+Otherwise
+You can visit the website from the
+
+
+ link
+
+
+
+
+
+Note: Please leave feedback or message in the contact section of the website.

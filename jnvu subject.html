@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="jnvu exam paper, jnvu, bca,jai narayan vyas University, College,exam" />
+    <meta name="description" content="Our exam paper website is a comprehensive platform designed for students, teachers, and educational institutions. The platform provides a wide array of past and sample exam papers across various subjects and levels. This can range from elementary to university level examinations. 
+
+    The site is user-friendly with easy navigation tools, allowing users to quickly find and download the papers they need. Additionally, the materials are systematically categorized by subject, educational level, and year, making searching more efficient. 
+    
+    One of the unique features of our website is that it also provides marking schemes for the available papers, giving students an opportunity to self-evaluate their answers. This feature is particularly useful for exam preparation as it allows students to understand the grading process and expectations. 
+    
+    Protecting user data is paramount to us. We've implemented robust security measures to ensure the privacy and safety of our users' information. 
+    
+    Whether you're a student aiming for better grades, a teacher looking for resources, or an educational institution aiming to provide quality materials, our exam paper website is your reliable partner in education.Our exam paper website is a comprehensive platform designed for students, teachers, and educational institutions. The platform provides a wide array of past and sample exam papers across various subjects and levels. This can range from elementary to university level examinations. 
+
+    The site is user-friendly with easy navigation tools, allowing users to quickly find and download the papers they need. Additionally, the materials are systematically categorized by subject, educational level, and year, making searching more efficient. 
+
+    One of the unique features of our website is that it also provides marking schemes for the available papers, giving students an opportunity to self-evaluate their answers. This feature is particularly useful for exam preparation as it allows students to understand the grading process and expectations. 
+
+    Protecting user data is paramount to us. We've implemented robust security measures to ensure the privacy and safety of our users' information. 
+
+    Whether you're a student aiming for better grades, a teacher looking for resources, or an educational institution aiming to provide quality materials, our exam paper website is your reliable partner in education." />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/style/subject.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Favicon -->
+    <link id='favicon' rel="shortcut icon" href="images/Vista Logos 2/logo-transparent-svg.svg" >
+    <title>Exam Paper Jnvu</title>
+   
+</head>
+<body>
+    <header>
+        <a href="/" class="logo"><img src="images/Vista Logos (1)/logo-transparent-svg.svg" alt="logo">
+        </a>
+        
+        <nav class="navbar" id="navlinks">
+          <i class="fa fa-times" onclick="hideMenu()"></i>
+
+            <ul> 
+                <li><a  href="/index.html">Home</a></li>
+                <!-- <li><a href="#about">About</a></li> -->
+                <li><a class="active" href="/#university">University</a></li>               
+                <!-- <li><a href="#2022">Contact</a></li> -->
+                <li>
+                    <a href="/cart.html">
+                        <span class="material-symbols-outlined" id="cart-icon">shopping_cart </span>
+                        <sup><span id="cart-count"></span></sup>
+                    </a>
+              </li>
+            </ul>
+        </nav>
+        <i class="fa fa-bars" onclick="showMenu()"></i>
+</header>
+<!-- navbar ends -->
+
+
+
+<!-- university section starts -->
+<section class="jnvu" id="jnvu">
+                         <h2 class="heading"><i class="fa fa-university"></i> Welcome to <br>
+                            <span>Jai Narain Vyas University Jodhpur </span></h2>
+                            
+             <div class="head">
+                Choose Your Department & Course
+             </div>  
+                            <div class="container">
+                                <P>Department of Computer Science </p><p> (Bachelor of Computer Application)</P>
+                                <button><a href="/Jnvu Subject/bca.html"><i class="fa fa-desktop"></i>  BCA </a></button>
+                            </div>
+                            
+                            <div class="container">
+                                <P>Department of Science </p><p>(Bachelor of Science)</P>
+                                <button><a href="#"><i class="fa fa-flask" aria-hidden="true"></i> BSC </a></button>
+                                <P>(Master of Science)</P>
+                                <button><a href="#"><i class="fa fa-flask" aria-hidden="true"></i> MSC </a></button>
+                            </div>
+
+                            <div class="container">
+                                <P>Department of Commerce </p><p>(Bachelor of Commerce)</P>
+                                <button><a href="/Jnvu Subject/bcom.html"><i class="fa fa-book" aria-hidden="true"></i> B.COM</a></button>
+                            </div>
+
+                            <div class="container">
+                                <P>Department of Computer Arts </p><p> (Bachelor of Arts )</P>
+                                <button><a href="#
+                                    "><i class="fa fa-paint-brush" ></i> BA</a></button>
+                            </div>
+                                       
+
+                            
+                                
+
+</section>
+ 
+<!-- java code for menu btn-->
+
+<script>
+    var navlinks = document.getElementById("navlinks");
+  
+    function showMenu(){
+        navlinks.style.left = "160px";
+    }
+    function hideMenu(){
+        navlinks.style.left = "410px";
+    }
+  </script> 
+  
+  <!-- js code for menu btn end-->
+
+  <script src="/script/cart.js"></script>
+
+
+
+</body>
+</html>
