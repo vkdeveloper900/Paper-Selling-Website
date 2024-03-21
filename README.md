@@ -1,0 +1,269 @@
+If you want to run this website then open
+ "Paper Selling Website" folder
+ with VS Code and then you can open it through live server.
+
+
+
+
+Otherwise
+You can visit the website from the
+
+
+ link
+https://vkdeveloper900.github.io/Paper-Selling-Website/
+
+If link not available you can search on GitHub id= vkdeveloper900
+
+
+
+
+
+Note: Please leave feedback or message in the contact section of the website.
+
+
+
+
+
+
+PAPER SELLING
+WEBSITE
+MAJOR PROJECT REPORT SUBMITTED
+IN
+PARTIAL FULFILLMENT OF THE REQUIREMENTS
+FOR THE
+BACHELOR OF COMPUTER APPLICATION
+FINAL YEAR
+Submitted By:
+VINOD
+BCA. FINAL YEAR
+JAI NARAIN VYAS UNIVERSITY
+JODHPUR
+
+
+AGKNOWLEDGEMENT
+The study of my Project us engrossed for a month and we have
+received help guidance and assistance from many quarters.
+Therefore we want to express our gratitude and thanks in the
+most simple and straightforward manner.
+First of all we must express deep sense of gratitude to our
+Head of the Department Mr.Yudhisthir Sharma and faculty of
+this department namely Mr.Yameen Sir for his unfailing, co-
+operation and guidance. And the heartiest thanks to
+Mr.Yameen Sir who provide guideline for me to make this
+project successfully.
+We would like to convey our respectful thanks to our
+Principal Mr. Gautam Sharma who has always hold in high
+esteem for being a source of strength and inspiration to us. Our
+special thanks to our LECTURERS for helping us with sufficient
+knowledge of front hand and backhand languages. Other help
+and his work wouldn’t have come in concert form Guideline was
+inspired by my parents even my sister helped me in the work. I
+was inspired by my parents without whose inspiration done this
+work.
+
+PREFACE
+We have great pleasure in presenting a detailed analysis of
+the project
+“PAPER SELLING WEBSITE ” which was carried out at
+Kumar Builders Computer Academy Institute of Falna.
+The entire document is divided into several sub topics in a
+proper order and the language is kept simple for easy
+understanding. The additional topics have added to the
+document for the user to get an understanding of the
+backend ( JavaScript )cookies, local storage and the front-end
+(Html, Html5, Css3, JavaScript) that have been used in the
+project.
+We would also like to express our gratitude to the entire
+teaching staff of the Kumar Builders Computer Academy
+Institute of Falna.
+It is a matter of pleasure for us, submitting this
+documentation of the project work done during the third
+year of BCA.
+Documentation plays a vital role in the system development
+to satisfy the feature need of user for maintenance of the
+system. Hence this report serves as detailed documentation
+for “PAPER SELLING WEBSITE” .It helps the user to
+understand the system in Moe detail.
+The main objective of this report is provide for better
+understanding and easy maintenance of the system.
+
+INTRODUCTION
+Paper Selling Website - Elevating Your Academic Journey
+through Comprehensive Exam Resources
+Embarking on your university journey is an exciting and
+challenging experience, and at Paper Selling Website, we
+recognize the importance of academic success in shaping
+your future. We are proud to introduce a revolutionary
+platform dedicated to enhancing your university exam
+preparation – a meticulously curated marketplace for buying
+and selling university exam papers. Welcome to Paper Selling
+Website, where academic excellence meets convenience.
+Overview:
+Paper Selling Website stands at the forefront of educational
+innovation, offering a specialized platform that caters
+exclusively to university students seeking a diverse range of
+exam resources. Whether you're navigating the complexities
+of your undergraduate courses or delving into the intricacies
+of postgraduate studies, our platform is tailored to meet the
+unique needs of higher education.
+Key Features:
+1. *Comprehensive Subject Coverage:* Paper Selling Website
+boasts an extensive library of exam. Our comprehensive
+coverage ensures that students from all academic
+backgrounds can find the resources they need to excel in
+their exams.
+2. *Verified Quality:* Quality assurance is paramount at
+Paper Selling Website. Our team of subject-matter experts
+
+meticulously reviews and verifies each exam paper listed on
+our platform to ensure accuracy, relevance, and alignment
+with academic standards. Rest assured that the materials you
+access are of the highest quality.
+3. *Tailored for University Courses:* Recognizing the unique
+challenges of university-level exams, Paper Selling Website
+focuses on providing exam papers specifically geared towards
+the depth and complexity of higher education courses.
+Whether you're preparing for midterms, finals, or
+comprehensive assessments, our platform offers a diverse
+range of resources to suit your academic needs.
+4. *Advanced Search and Filtering:* Our user-friendly
+interface empowers you to navigate our extensive database
+effortlessly. Utilize advanced search and filtering options to
+locate exam papers relevant to your specific course, year, or
+topic. Paper Selling Website simplifies the process of finding
+the right resources for your academic journey.
+5. *Secure Transactions:* Paper Selling Website prioritizes
+the security and privacy of our users. Our platform employs
+robust encryption and transaction security measures,
+ensuring that your personal information remains confidential
+throughout the buying and selling process.
+6. *Collaborative Learning Community:* Paper Selling
+Website encourages a collaborative approach to academic
+success. Sellers have the opportunity to contribute to the
+academic community by sharing their knowledge and
+expertise. By selling exam papers, you not only earn but also
+play a vital role in fostering a culture of shared learning.
+
+Paper Selling Website is more than just a marketplace; it's a
+dynamic hub where students, educators, and knowledge
+enthusiasts come together to enhance the learning
+experience. Join us on your academic journey and unlock a
+world of comprehensive exam resources designed to propel
+you toward success. Paper Selling Website: Elevating
+Academic Excellence, One Paper at a Time
+SDLC(System Development Life cycle)
+System development life cycle. SDLC is a system
+development life cycle of software development life
+cycle. It include guideline policies and procedures
+for developing system. Through there life cycle it
+include requirement design implementation,
+testing, deployment operation and maintenance.
+Requirement analysis
+Data gathering is the step in which collect data about
+the system to be developed. We use different tools
+and methods depending on situations. This are
+return document, interviews, puts questions and
+then observations.
+Written document may be reports, forms, business
+plans, memos, policy statement, organisational chart
+
+and many others.it provides valuable information
+about the existing system.
+REQUIREMENTS:-
+1) Responsive Templates.
+2) All data stored in Files Folder.
+3) User Feedback Data Store In Google-Sheet.
+4) User Friendly Environment.
+Feasibility study
+Feasibility study is used to assess the strengths and
+weakness of a proposed project and present directions
+of activates which will improve a project and achieved
+desired result. It involves an examination of operation,
+HR and marketing aspects of a business on ex ante
+basis.
+Feasibility study is designed to provide an overview of
+the primary issue related to the business idea.
+Feasibility study involves:-
+Appraisal of existing system and manual process
+Trouble shooting, process reengineering, risk analysis
+and assessment, Risk management, cost benefit
+analysis, Impact analysis, integration of existing of new
+System, resource requirement planning and timing
+
+Design And Analysis(SDLC)
+Identification of Objects:-
+The object of the PAPER SELLING WEBSITE are as
+follows:-Home, Contact, About, Product, Cart etc
+Identification of Entities:-
+The entities PAPER SELLING WEBSITE are follows:-
+Product, Purchase etc.Attributes of the above entities:-
+Product
+*Pid
+*PName
+*PPrice
+*PImg
+LANGUAGE AND SOFTWARE USED
+In this project minimum software and language used
+are:
+A. Language are:-
+o Front end: = HTML,
+HTML5 ,
+CSS,
+JavaScript
+o Back end: = JavaScript
+
+B. Software are:-
+o Microsoft VSCODE
+o Google Sheet
+Flow chart and process logic
+A flowchart is a type of a diagram that represent an
+algorithm, workflow or process, showing the step as
+boxes of various kinds and there order by connecting
+them with arrows. This diagrammatic representation
+illustrate a solution model to a given problem. Flow
+chart are used in
+analysing, designing, documenting or managing a
+process or a program in various field.
+You complete your application by defining its
+processing logic using online express, a menu driven
+painter the offer a fill in the blank approach.
+
+Future Scope of the Project
+1. *Authorized Study Material Platform:*
+Transition the platform into a legitimate study material hub by
+collaborating with educational institutions and publishers to offer
+authorized study materials, practice tests, and resources for exam
+preparation.
+2. *Tutoring and Academic Support Services:*
+Expand the platform to provide tutoring services and academic
+support. Connect students with qualified tutors who can offer
+guidance, clarify doubts, and assist in understanding complex
+topics.
+3. *Skill Development Resources:*
+Broaden the platform's offerings to include resources for skill
+development. Provide courses and materials that help students
+acquire practical skills relevant to their academic and
+professional pursuits.
+4. *Collaboration with Educational Institutions:*
+Work closely with educational institutions to become an official
+provider of supplementary study materials. Ensure that the
+content aligns with the curriculum and is endorsed by academic
+authorities.
+5. *Adaptive Learning Technologies:*
+Integrate adaptive learning technologies into the platform.
+Utilize AI and machine learning to personalize study plans,
+identify areas of improvement, and enhance the overall learning
+experience.
+6. *Career Guidance and Counseling:*
+
+Offer career guidance and counseling services to help students
+make informed decisions about their educational and career
+paths. Provide insights into various professions and industries.
+7. *Educational Technology Integration:*
+Explore the integration of educational technologies to enhance
+the learning experience. Develop interactive features,
+collaborative study tools, and real-time feedback mechanisms to
+engage students effectively.
+
+
+
