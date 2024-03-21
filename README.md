@@ -267,4 +267,40 @@ engage students effectively.
 
 
 
-![suc](https://github.com/vkdeveloper900/Paper-Selling-Website/assets/140049219/79252072-b257-4de5-a9da-ea642873aa6e)
+DESIGN—OUTPUT :-
+HOME PAGE 
+
+![image](https://github.com/vkdeveloper900/Paper-Selling-Website/assets/140049219/64c65583-4753-4a49-be3a-3b33968e231c)
+
+
+ABOUT-SECTION 
+
+![image](https://github.com/vkdeveloper900/Paper-Selling-Website/assets/140049219/6ee1cba7-e835-4a42-87c2-163fdf5e7c9b)
+
+
+UNIVERSITY-SECTION
+
+![image](https://github.com/vkdeveloper900/Paper-Selling-Website/assets/140049219/8bf560e9-ab50-4753-8575-ee5424ac6e72)
+
+
+CONTACT  &  FOOTER SECTION
+
+![image](https://github.com/vkdeveloper900/Paper-Selling-Website/assets/140049219/fa8f9023-2d06-4bd5-b36d-51f0a3bf8e40)
+
+
+JNVU EXAM PAPER PAGE
+
+![image](https://github.com/vkdeveloper900/Paper-Selling-Website/assets/140049219/51fb6991-3154-4982-a401-d4656e4bbc7c)
+
+
+JNVU BCA EXAM PAPER
+
+![image](https://github.com/vkdeveloper900/Paper-Selling-Website/assets/140049219/f0dca1a6-4dd4-4a2f-b284-d2d6eef273db)
+
+
+SHOPPING CART
+
+![image](https://github.com/vkdeveloper900/Paper-Selling-Website/assets/140049219/63f8e2c8-aa53-49b8-bb5b-0c62f316c71a)
+PURCHASED ITEM PAGE
+
+![image](https://github.com/vkdeveloper900/Paper-Selling-Website/assets/140049219/be765ec2-d59b-4ae7-b24f-47d93a26a728)
